@@ -1,3 +1,5 @@
+% Author: Owen McWilliams
+
 arr=[]; 
 plotarr=zeros(30,76);
 img=rfits('NGC-672-g-master.fit');
